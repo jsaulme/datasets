@@ -1,0 +1,306 @@
+moveId,name,abbreviation,type,power,energy,energyGain,cooldown,archetype,buffs,buffTarget,buffApplyChance,buffsSelf,buffsOpponent,fastMove
+ACID,Acid,Ac,poison,6,0,5,1000,Low Quality,,,,,,True
+ACID_SPRAY,Acid Spray,,poison,20,45,0,500,Debuff,"[0, -2]",opponent,1.0,,,False
+ACROBATICS,Acrobatics,Acr,flying,110,60,0,500,General,,,,,,False
+AERIAL_ACE,Aerial Ace,,flying,55,40,0,500,General,,,,,,False
+AEROBLAST,Aeroblast,,flying,170,75,0,500,Boost Nuke,"[2, 0]",self,0.125,,,False
+AIR_CUTTER,Air Cutter,,flying,60,55,0,500,High Energy,,,,,,False
+AIR_SLASH,Air Slash,,flying,9,0,9,1500,General,,,,,,True
+ANCIENT_POWER,Ancient Power,,rock,60,45,0,500,Boost,"[1, 1]",self,0.1,,,False
+AQUA_JET,Aqua Jet,,water,45,45,0,500,General,,,,,,False
+AQUA_TAIL,Aqua Tail,,water,55,35,0,500,Spam/Bait,,,,,,False
+ASTONISH,Astonish,,ghost,9,0,10,1500,General,,,,,,True
+AURA_SPHERE,Aura Sphere,AuS,fighting,100,55,0,500,Nuke,,,,,,False
+AURORA_BEAM,Aurora Beam,,ice,80,60,0,500,High Energy,,,,,,False
+AVALANCHE,Avalanche,Av,ice,90,45,0,500,General,,,,,,False
+BITE,Bite,Bi,dark,4,0,2,500,Heavy Damage,,,,,,True
+BLAST_BURN,Blast Burn,,fire,110,50,0,500,General,,,,,,False
+BLEAKWIND_STORM,Bleakwind Storm,BwS,flying,60,45,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+BLIZZARD,Blizzard,Bl,ice,140,75,0,500,Nuke,,,,,,False
+BODY_SLAM,Body Slam,,normal,60,35,0,500,Spam/Bait,,,,,,False
+BOOMBURST,Boomburst,BmB,normal,150,70,0,500,Nuke,,,,,,False
+BONE_CLUB,Bone Club,,ground,40,35,0,500,Spam/Bait,,,,,,False
+BRAVE_BIRD,Brave Bird,BrB,flying,130,55,0,500,Self-Debuff Nuke,"[0, -3]",self,1.0,,,False
+BREAKING_SWIPE,Breaking Swipe,BkS,dragon,50,35,0,500,Debuff Spam/Bait,"[-1, 0]",opponent,0.5,,,False
+BRICK_BREAK,Brick Break,BkB,fighting,40,40,0,500,Debuff Spam/Bait,"[0, -1]",opponent,1.0,,,False
+BRUTAL_SWING,Brutal Swing,BrS,dark,65,40,0,500,General,,,,,,False
+BRINE,Brine,Bri,water,60,50,0,500,General,,,,,,False
+BUBBLE,Bubble,,water,8,0,11,1500,Fast Charge,,,,,,True
+BUBBLE_BEAM,Bubble Beam,BuB,water,25,40,0,500,Debuff Spam/Bait,"[-1, 0]",opponent,1.0,,,False
+BUG_BITE,Bug Bite,BBi,bug,3,0,3,500,General,,,,,,True
+BUG_BUZZ,Bug Buzz,BBu,bug,100,60,0,500,High Energy Debuff,"[0, -1]",opponent,0.3,,,False
+BULLDOZE,Bulldoze,Bd,ground,80,60,0,500,High Energy,,,,,,False
+BULLET_PUNCH,Bullet Punch,,steel,6,0,7,1000,General,,,,,,True
+BULLET_SEED,Bullet Seed,,grass,5,0,13,1500,Fast Charge,,,,,,True
+CHARGE_BEAM,Charge Beam,,electric,5,0,11,1500,Fast Charge,,,,,,True
+CHARM,Charm,Ch,fairy,15,0,6,1500,Heavy Damage,,,,,,True
+CLOSE_COMBAT,Close Combat,,fighting,100,45,0,500,Self-Debuff,"[0, -2]",self,1.0,,,False
+CONFUSION,Confusion,Cf,psychic,16,0,12,2000,Multipurpose,,,,,,True
+COUNTER,Counter,C,fighting,8,0,7,1000,Multipurpose,,,,,,True
+CRABHAMMER,Crabhammer,Crbh,water,85,50,0,500,Boost,"[2, 0]",self,0.125,,,False
+CROSS_CHOP,Cross Chop,CrC,fighting,55,35,0,500,Spam/Bait,,,,,,False
+CROSS_POISON,Cross Poison,,poison,50,35,0,500,Boost Spam/Bait,"[2, 0]",self,0.125,,,False
+CRUNCH,Crunch,Cr,dark,70,45,0,500,Debuff,"[0, -1]",opponent,0.3,,,False
+CUT,Cut,Cu,normal,3,0,2,500,Low Quality,,,,,,True
+DARKEST_LARIAT,Darkest Lariat,DkL,dark,120,60,0,500,Nuke,,,,,,False
+DARK_PULSE,Dark Pulse,,dark,80,50,0,500,General,,,,,,False
+DAZZLING_GLEAM,Dazzling Gleam,,fairy,110,70,0,500,Nuke,,,,,,False
+DIG,Dig,Dg,ground,80,50,0,500,High Energy,,,,,,False
+DISARMING_VOICE,Disarming Voice,,fairy,70,45,0,500,General,,,,,,False
+DISCHARGE,Discharge,,electric,65,45,0,500,General,,,,,,False
+DOOM_DESIRE,Doom Desire,,steel,75,40,0,500,Spam/Bait,,,,,,False
+DOUBLE_IRON_BASH,Double Iron Bash,DbI,steel,50,35,0,500,Spam/Bait,,,,,,False
+DOUBLE_KICK,Double Kick,,fighting,8,0,12,1500,Multipurpose,,,,,,True
+DRACO_METEOR,Draco Meteor,,dragon,150,65,0,500,Self-Debuff Nuke,"[-2, 0]",self,1.0,,,False
+DRAGON_ASCENT,Dragon Ascent,DrA,flying,150,70,0,500,Self-Debuff Nuke,"[0, -1]",self,1.0,,,False
+DRAGON_BREATH,Dragon Breath,,dragon,4,0,3,500,Multipurpose,,,,,,True
+DRAGON_CLAW,Dragon Claw,,dragon,50,35,0,500,Spam/Bait,,,,,,False
+DRAGON_PULSE,Dragon Pulse,DgP,dragon,90,60,0,500,High Energy,,,,,,False
+DRAGON_TAIL,Dragon Tail,,dragon,13,0,9,1500,Multipurpose,,,,,,True
+DRAIN_PUNCH,Drain Punch,DrP,fighting,20,40,0,500,Boost Spam/Bait,"[0, 1]",self,1.0,,,False
+DRAINING_KISS,Draining Kiss,,fairy,60,55,0,500,High Energy,,,,,,False
+DRILL_PECK,Drill Peck,DrlP,flying,65,40,0,500,Spam/Bait,,,,,,False
+DRILL_RUN,Drill Run,,ground,80,45,0,500,General,,,,,,False
+DYNAMIC_PUNCH,Dynamic Punch,DyP,fighting,90,50,0,500,General,,,,,,False
+EARTHQUAKE,Earthquake,Eq,ground,110,65,0,500,Nuke,,,,,,False
+EARTH_POWER,Earth Power,,ground,90,55,0,500,High Energy Debuff,"[0, -1]",opponent,0.1,,,False
+EMBER,Ember,,fire,7,0,6,1000,Heavy Damage,,,,,,True
+ENERGY_BALL,Energy Ball,,grass,90,55,0,500,High Energy Debuff,"[0, -1]",opponent,0.1,,,False
+EXTRASENSORY,Extrasensory,Ex,psychic,8,0,10,1500,General,,,,,,True
+FEINT_ATTACK,Feint Attack,,dark,6,0,6,1000,General,,,,,,True
+FELL_STINGER,Fell Stinger,FeS,bug,20,35,0,500,Boost Spam/Bait,"[1, 0]",self,1.0,,,False
+FIRE_BLAST,Fire Blast,FiB,fire,140,80,0,500,Nuke,,,,,,False
+FIRE_FANG,Fire Fang,,fire,8,0,5,1000,Heavy Damage,,,,,,True
+FIRE_PUNCH,Fire Punch,FiP,fire,55,40,0,500,Spam/Bait,,,,,,False
+BLAZE_KICK,Blaze Kick,,fire,60,40,0,500,Spam/Bait,,,,,,False
+FAIRY_WIND,Fairy Wind,,fairy,3,0,9,1000,Fast Charge,,,,,,True
+FEATHER_DANCE,Feather Dance,FrD,flying,35,50,0,500,Debuff,"[-2, 0]",opponent,1.0,,,False
+FIRE_SPIN,Fire Spin,,fire,10,0,10,1500,General,,,,,,True
+FLAME_BURST,Flame Burst,FmB,fire,70,55,0,500,High Energy,,,,,,False
+FLAME_CHARGE,Flame Charge,FmC,fire,65,50,0,500,Boost,"[1, 0]",self,1.0,,,False
+FLAME_WHEEL,Flame Wheel,,fire,60,55,0,500,High Energy,,,,,,False
+FLAMETHROWER,Flamethrower,Ft,fire,90,55,0,500,High Energy,,,,,,False
+FLASH_CANNON,Flash Cannon,,steel,110,70,0,500,Nuke,,,,,,False
+FLY,Fly,Fl,flying,80,45,0,500,General,,,,,,False
+FLYING_PRESS,Flying Press,FlP,fighting,90,40,0,500,Spam/Bait,,,,,,False
+FOCUS_BLAST,Focus Blast,,fighting,150,75,0,500,Nuke,,,,,,False
+FORCE_PALM,Force Palm,FPm,fighting,13,0,10,1500,Multipurpose,,,,,,True
+FOUL_PLAY,Foul Play,FoP,dark,70,45,0,500,General,,,,,,False
+FRENZY_PLANT,Frenzy Plant,,grass,100,45,0,500,General,,,,,,False
+FROST_BREATH,Frost Breath,,ice,7,0,5,1000,Heavy Damage,,,,,,True
+FRUSTRATION,Frustration,,normal,10,70,0,500,High Energy,,,,,,False
+FURY_CUTTER,Fury Cutter,,bug,2,0,4,500,Fast Charge,,,,,,True
+FUSION_BOLT,Fusion Bolt,FuB,electric,90,45,0,500,General,,,,,,False
+FUSION_FLARE,Fusion Flare,,fire,90,45,0,500,General,,,,,,False
+FUTURE_SIGHT,Future Sight,,psychic,120,65,0,500,Nuke,,,,,,False
+GEOMANCY,Geomancy,Geo,fairy,4,0,13,1500,Fast Charge,,,,,,True
+GIGA_DRAIN,Giga Drain,,grass,50,80,0,500,High Energy,,,,,,False
+GIGA_IMPACT,Giga Impact,,normal,150,80,0,500,Nuke,,,,,,False
+GLACIATE,Glaciate,,ice,60,40,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+GRASS_KNOT,Grass Knot,,grass,90,50,0,500,General,,,,,,False
+GUNK_SHOT,Gunk Shot,,poison,130,75,0,500,Nuke,,,,,,False
+GUST,Gust,,flying,16,0,12,2000,Multipurpose,,,,,,True
+GYRO_BALL,Gyro Ball,,steel,80,60,0,500,High Energy,,,,,,False
+HEART_STAMP,Heart Stamp,HeS,psychic,40,40,0,500,Spam/Bait,,,,,,False
+HEAT_WAVE,Heat Wave,,fire,95,75,0,500,High Energy,,,,,,False
+HEAVY_SLAM,Heavy Slam,,steel,70,50,0,500,General,,,,,,False
+HEX,Hex,,ghost,6,0,12,1500,Fast Charge,,,,,,True
+HIDDEN_POWER_BUG,Hidden Power (Bug),,bug,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_DARK,Hidden Power (Dark),,dark,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_DRAGON,Hidden Power (Dragon),,dragon,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_ELECTRIC,Hidden Power (Electric),,electric,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_FIGHTING,Hidden Power (Fighting),,fighting,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_FIRE,Hidden Power (Fire),,fire,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_FLYING,Hidden Power (Flying),,flying,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_GHOST,Hidden Power (Ghost),,ghost,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_GRASS,Hidden Power (Grass),,grass,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_GROUND,Hidden Power (Ground),,ground,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_ICE,Hidden Power (Ice),,ice,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_POISON,Hidden Power (Poison),,poison,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_PSYCHIC,Hidden Power (Psychic),,psychic,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_ROCK,Hidden Power (Rock),,rock,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_STEEL,Hidden Power (Steel),,steel,9,0,8,1500,Low Quality,,,,,,True
+HIDDEN_POWER_WATER,Hidden Power (Water),,water,9,0,8,1500,Low Quality,,,,,,True
+HIGH_HORSEPOWER,High Horsepower,,ground,100,60,0,500,Nuke,,,,,,False
+HIGH_JUMP_KICK,High Jump Kick,HJK,fighting,110,55,0,500,Self-Debuff Nuke,"[0, -4]",self,0.1,,,False
+HORN_ATTACK,Horn Attack,,normal,40,35,0,500,Spam/Bait,,,,,,False
+HURRICANE,Hurricane,Hu,flying,110,65,0,500,Nuke,,,,,,False
+HYDRO_CANNON,Hydro Cannon,,water,80,40,0,500,Spam/Bait,,,,,,False
+HYDRO_PUMP,Hydro Pump,,water,130,75,0,500,Nuke,,,,,,False
+HYDRO_PUMP_BLASTOISE,Hydro Pump Blastoise,,water,90,80,0,500,High Energy,,,,,,False
+HYPER_BEAM,Hyper Beam,,normal,150,80,0,500,Nuke,,,,,,False
+HYPER_FANG,Hyper Fang,,normal,80,50,0,500,General,,,,,,False
+ICE_BEAM,Ice Beam,,ice,90,55,0,500,High Energy,,,,,,False
+ICE_FANG,Ice Fang,,ice,8,0,5,1000,Heavy Damage,,,,,,True
+ICE_PUNCH,Ice Punch,,ice,55,40,0,500,Spam/Bait,,,,,,False
+ICE_SHARD,Ice Shard,,ice,9,0,10,1500,General,,,,,,True
+ICICLE_SPEAR,Icicle Spear,ISp,ice,65,40,0,500,Spam/Bait,,,,,,False
+ICY_WIND,Icy Wind,,ice,60,45,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+INCINERATE,Incinerate,,fire,20,0,20,2500,Multipurpose,,,,,,True
+INFESTATION,Infestation,Inf,bug,6,0,12,1500,Fast Charge,,,,,,True
+IRON_HEAD,Iron Head,,steel,70,50,0,500,General,,,,,,False
+IRON_TAIL,Iron Tail,,steel,10,0,7,1500,General,,,,,,True
+KARATE_CHOP,Karate Chop,,fighting,5,0,8,1000,Fast Charge,,,,,,True
+LAST_RESORT,Last Resort,,normal,90,55,0,500,High Energy,,,,,,False
+LEAF_BLADE,Leaf Blade,,grass,70,35,0,500,Spam/Bait,,,,,,False
+LEAF_TORNADO,Leaf Tornado,,grass,45,40,0,500,Debuff Spam/Bait,"[-2, 0]",opponent,0.5,,,False
+LEAF_STORM,Leaf Storm,LfS,grass,130,55,0,500,Self-Debuff Nuke,"[-2, 0]",self,1.0,,,False
+LEAFAGE,Leafage,,grass,6,0,7,1000,General,,,,,,True
+LICK,Lick,,ghost,3,0,3,500,General,,,,,,True
+LIQUIDATION,Liquidation,Li,water,70,45,0,500,Debuff,"[0, -1]",opponent,0.3,,,False
+LOCK_ON,Lock On,,normal,1,0,5,500,Fast Charge,,,,,,True
+LOW_KICK,Low Kick,,fighting,4,0,5,1000,Low Quality,,,,,,True
+LOW_SWEEP,Low Sweep,,fighting,40,40,0,500,Spam/Bait,,,,,,False
+LUNGE,Lunge,Lu,bug,60,45,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+LUSTER_PURGE,Luster Purge,LrP,psychic,120,60,0,500,Debuff Nuke,"[0, -1]",opponent,0.5,,,False
+MAGICAL_LEAF,Magical Leaf,,grass,10,0,10,1500,General,,,,,,True
+MAGMA_STORM,Magma Storm,MgS,fire,65,40,0,500,General,,,,,,False
+MAGNET_BOMB,Magnet Bomb,MgB,steel,70,45,0,500,General,,,,,,False
+MEGA_DRAIN,Mega Drain,,grass,25,55,0,500,High Energy,,,,,,False
+MEGAHORN,Megahorn,Mh,bug,110,55,0,500,Nuke,,,,,,False
+METAL_CLAW,Metal Claw,,steel,5,0,6,1000,Low Quality,,,,,,True
+METAL_SOUND,Metal Sound,MSo,steel,3,0,8,1000,Fast Charge,,,,,,True
+METEOR_BEAM,Meteor Beam,MeB,rock,120,60,0,500,Boost Nuke,"[1, 0]",self,1.0,,,False
+METEOR_MASH,Meteor Mash,,steel,100,50,0,500,General,,,,,,False
+MIRROR_COAT,Mirror Coat,MrC,psychic,60,55,0,500,High Energy,,,,,,False
+MIRROR_SHOT,Mirror Shot,MrS,steel,35,35,0,500,Debuff Spam/Bait,"[-1, 0]",opponent,0.3,,,False
+MIST_BALL,Mist Ball,MsB,psychic,120,60,0,500,Debuff Nuke,"[-1, 0]",opponent,0.5,,,False
+MOONBLAST,Moonblast,,fairy,110,60,0,500,Debuff Nuke,"[-1, 0]",opponent,0.1,,,False
+MOONGEIST_BEAM,Moongeist Beam,MoG,ghost,135,65,0,500,Nuke,,,,,,False
+MUD_BOMB,Mud Bomb,,ground,60,40,0,500,Spam/Bait,,,,,,False
+MUDDY_WATER,Muddy Water,,water,35,35,0,1000,Debuff Spam/Bait,"[-1, 0]",opponent,0.3,,,False
+MUD_SHOT,Mud Shot,,ground,3,0,9,1000,Fast Charge,,,,,,True
+MUD_SLAP,Mud Slap,MSl,ground,11,0,9,1500,Heavy Damage,,,,,,True
+MYSTICAL_FIRE,Mystical Fire,,fire,60,45,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+NATURES_MADNESS,Nature's Madness,,fairy,80,50,0,500,Debuff,"[0, -1]",opponent,1.0,,,False
+NIGHT_SHADE,Night Shade,NSh,ghost,60,55,0,500,High Energy,,,,,,False
+NIGHT_SLASH,Night Slash,,dark,50,35,0,500,Boost Spam/Bait,"[2, 0]",self,0.125,,,False
+OBLIVION_WING,Oblivion Wing,ObW,flying,85,50,0,500,General,,,,,,False
+OBSTRUCT,Obstruct,Ob,dark,15,40,0,500,Boost Spam/Bait,"[0, 1]",both,1.0,"[0, 1]","[0, -1]",False
+OCTAZOOKA,Octazooka,Oc,water,50,50,0,500,Debuff,"[-2, 0]",opponent,0.5,,,False
+OMINOUS_WIND,Ominous Wind,,ghost,45,45,0,500,Boost,"[1, 1]",self,0.1,,,False
+ORIGIN_PULSE,Origin Pulse,,water,130,60,0,500,Nuke,,,,,,False
+OUTRAGE,Outrage,,dragon,110,60,0,500,Nuke,,,,,,False
+OVERHEAT,Overheat,Ov,fire,130,55,0,500,Self-Debuff Nuke,"[-2, 0]",self,1.0,,,False
+PARABOLIC_CHARGE,Parabolic Charge,PbC,electric,65,55,0,500,High Energy,,,,,,False
+PAYBACK,Payback,Pbk,dark,110,60,0,500,Nuke,,,,,,False
+PECK,Peck,Pk,flying,6,0,5,1000,Low Quality,,,,,,True
+PETAL_BLIZZARD,Petal Blizzard,PlB,grass,110,65,0,500,Nuke,,,,,,False
+PLAY_ROUGH,Play Rough,,fairy,90,60,0,500,High Energy,,,,,,False
+POISON_FANG,Poison Fang,,poison,45,40,0,500,Debuff Spam/Bait,"[0, -1]",opponent,1.0,,,False
+POISON_JAB,Poison Jab,,poison,7,0,7,1000,General,,,,,,True
+POISON_STING,Poison Sting,PSt,poison,3,0,9,1000,Fast Charge,,,,,,True
+POLTERGEIST,Poltergeist,Po,ghost,150,75,0,500,Nuke,,,,,,False
+POUND,Pound,Pd,normal,4,0,4,1000,Low Quality,,,,,,True
+POWDER_SNOW,Powder Snow,,ice,5,0,8,1000,Fast Charge,,,,,,True
+POWER_GEM,Power Gem,,rock,80,60,0,500,High Energy,,,,,,False
+POWER_UP_PUNCH,Power-Up Punch,,fighting,20,35,0,500,Boost Spam/Bait,"[1, 0]",self,1.0,,,False
+POWER_WHIP,Power Whip,,grass,90,50,0,500,General,,,,,,False
+PRECIPICE_BLADES,Precipice Blades,PrB,ground,130,60,0,500,Nuke,,,,,,False
+PRESENT,Present,Pr,normal,3,0,12,1500,Fast Charge,,,,,,True
+PSYBEAM,Psybeam,Psb,psychic,70,60,0,500,High Energy,,,,,,False
+PSYCHIC,Psychic,,psychic,75,55,0,500,High Energy Debuff,"[0, -1]",opponent,0.1,,,False
+PSYCHIC_FANGS,Psychic Fangs,PsF,psychic,40,35,0,500,Debuff Spam/Bait,"[0, -1]",opponent,1.0,,,False
+PSYCHO_BOOST,Psycho Boost,,psychic,70,35,0,500,Self-Debuff Spam,"[-2, 0]",self,1.0,,,False
+PSYCHO_CUT,Psycho Cut,,psychic,3,0,9,1000,Fast Charge,,,,,,True
+PSYSHOCK,Psyshock,Psh,psychic,70,45,0,500,General,,,,,,False
+PSYSTRIKE,Psystrike,Pst,psychic,90,45,0,500,General,,,,,,False
+PSYWAVE,Psywave,Psy,psychic,3,0,2,500,Low Quality,,,,,,True
+QUICK_ATTACK,Quick Attack,,normal,5,0,8,1000,Fast Charge,,,,,,True
+RAZOR_LEAF,Razor Leaf,,grass,10,0,4,1000,Heavy Damage,,,,,,True
+RAZOR_SHELL,Razor Shell,RSh,water,35,35,0,500,Spam/Bait Debuff,"[0, -1]",opponent,0.5,,,False
+REST,Rest,,normal,50,35,0,500,Spam/Bait,,,,,,False
+RETURN,Return,Re,normal,130,70,0,500,Nuke,,,,,,False
+ROAR_OF_TIME,Roar of Time,,dragon,150,65,0,500,Nuke,,,,,,False
+ROCK_BLAST,Rock Blast,,rock,50,40,0,500,Spam/Bait,,,,,,False
+ROCK_SLIDE,Rock Slide,,rock,75,45,0,500,General,,,,,,False
+ROCK_SMASH,Rock Smash,RSm,fighting,9,0,7,1500,Low Quality,,,,,,True
+ROCK_THROW,Rock Throw,RTh,rock,8,0,5,1000,Heavy Damage,,,,,,True
+ROCK_TOMB,Rock Tomb,,rock,70,60,0,500,High Energy Debuff,"[-1, 0]",opponent,1.0,,,False
+ROCK_WRECKER,Rock Wrecker,,rock,110,50,0,500,General,,,,,,False
+ROLLOUT,Rollout,RO,rock,5,0,13,1500,Fast Charge,,,,,,True
+SACRED_FIRE,Sacred Fire,,fire,130,65,0,500,Debuff,"[-1, 0]",opponent,0.5,,,False
+SACRED_SWORD,Sacred Sword,SSw,fighting,60,35,0,500,Spam/Bait,,,,,,False
+SAND_ATTACK,Sand Attack,SdA,ground,2,0,4,500,Fast Charge,,,,,,True
+SAND_TOMB,Sand Tomb,,ground,25,40,0,500,Debuff Spam/Bait,"[0, -1]",opponent,1.0,,,False
+SANDSEAR_STORM,Sandsear Storm,SSt,ground,60,45,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+SCALD,Scald,Sc,water,85,50,0,500,High Energy Debuff,"[-1, 0]",opponent,0.3,,,False
+SCORCHING_SANDS,Scorching Sands,ScS,ground,80,50,0,500,High Energy Debuff,"[-1, 0]",opponent,0.3,,,False
+SCRATCH,Scratch,Scr,normal,4,0,2,500,Heavy Damage,,,,,,True
+SEED_BOMB,Seed Bomb,SeB,grass,65,45,0,500,General,,,,,,False
+SEED_FLARE,Seed Flare,SFl,grass,130,75,0,500,Nuke Debuff,"[0, -2]",opponent,0.4,,,False
+SHADOW_BALL,Shadow Ball,,ghost,100,55,0,500,Nuke,,,,,,False
+SHADOW_BONE,Shadow Bone,SBo,ghost,80,45,0,500,Debuff,"[0, -1]",opponent,0.2,,,False
+SHADOW_CLAW,Shadow Claw,,ghost,6,0,8,1000,Multipurpose,,,,,,True
+SHADOW_FORCE,Shadow Force,ShF,ghost,120,90,0,500,Nuke,,,,,,False
+SHADOW_PUNCH,Shadow Punch,ShP,ghost,40,35,0,500,Spam/Bait,,,,,,False
+SHADOW_SNEAK,Shadow Sneak,,ghost,50,45,0,500,General,,,,,,False
+SIGNAL_BEAM,Signal Beam,SiB,bug,75,55,0,500,High Energy Debuff,"[-1, -1]",opponent,0.2,,,False
+SILVER_WIND,Silver Wind,SvW,bug,60,45,0,500,Boost,"[1, 1]",self,0.1,,,False
+SKULL_BASH,Skull Bash,SkB,normal,130,75,0,500,Boost Nuke,"[0, 1]",self,1.0,,,False
+SKY_ATTACK,Sky Attack,,flying,75,50,0,500,General,,,,,,False
+SLUDGE,Sludge,Sl,poison,50,40,0,500,Spam/Bait,,,,,,False
+SLUDGE_BOMB,Sludge Bomb,SlB,poison,80,50,0,500,General,,,,,,False
+SLUDGE_WAVE,Sludge Wave,,poison,110,65,0,500,Nuke,,,,,,False
+SMACK_DOWN,Smack Down,,rock,12,0,8,1500,Heavy Damage,,,,,,True
+SNARL,Snarl,Sn,dark,5,0,13,1500,Fast Charge,,,,,,True
+SOLAR_BEAM,Solar Beam,SoB,grass,150,80,0,500,Nuke,,,,,,False
+SPACIAL_REND,Spacial Rend,SpR,dragon,95,50,0,500,General,,,,,,False
+SPARK,Spark,Sp,electric,5,0,7,1000,General,,,,,,True
+SPIRIT_SHACKLE,Spirit Shackle,SSh,ghost,50,40,0,500,Debuff Spam/Bait,"[0, -1]",opponent,0.33,,,False
+SPLASH,Splash,Spl,water,0,0,12,2000,Low Quality,,,,,,True
+SPRINGTIDE_STORM,Springtide Storm (Speculative),StS,fairy,60,45,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+STEEL_WING,Steel Wing,StW,steel,7,0,7,1000,General,,,,,,True
+STOMP,Stomp,St,normal,55,40,0,500,Spam/Bait,,,,,,False
+STONE_EDGE,Stone Edge,,rock,100,55,0,500,Nuke,,,,,,False
+STRUGGLE,Struggle,Str,normal,35,100,0,500,High Energy,,,,,,True
+STRUGGLE_BUG,Struggle Bug,StB,bug,9,0,8,1500,Low Quality,,,,,,True
+SUBMISSION,Submission,Sm,fighting,60,50,0,500,General,,,,,,False
+SUCKER_PUNCH,Sucker Punch,SkP,dark,5,0,7,1000,Fast Charge,,,,,,True
+SUNSTEEL_STRIKE,Sunsteel Strike,Stl,steel,135,65,0,500,Nuke,,,,,,False
+SUPER_POWER,Superpower,,fighting,85,40,0,500,Self-Debuff Spam,"[-1, -1]",self,1.0,,,False
+SURF,Surf,,water,65,40,0,500,Spam/Bait,,,,,,False
+SWIFT,Swift,Sw,normal,55,40,0,500,Spam/Bait,,,,,,False
+SYNCHRONOISE,Synchronoise,Sy,psychic,80,50,0,500,General,,,,,,False
+TACKLE,Tackle,Tk,normal,3,0,3,500,General,,,,,,True
+TAKE_DOWN,Take Down,,normal,5,0,8,1500,Low Quality,,,,,,True
+TECHNO_BLAST_NORMAL,Techno Blast (Normal),,normal,120,55,0,500,Nuke,,,,,,False
+TECHNO_BLAST_BURN,Techno Blast (Burn),,fire,120,55,0,500,Nuke,,,,,,False
+TECHNO_BLAST_CHILL,Techno Blast (Chill),,ice,120,55,0,500,Nuke,,,,,,False
+TECHNO_BLAST_DOUSE,Techno Blast (Douse),,water,120,55,0,500,Nuke,,,,,,False
+TECHNO_BLAST_SHOCK,Techno Blast (Shock),,electric,120,55,0,500,Nuke,,,,,,False
+THUNDER,Thunder,,electric,100,60,0,500,High Energy,,,,,,False
+THUNDER_FANG,Thunder Fang,,electric,8,0,5,1000,Heavy Damage,,,,,,True
+THUNDER_PUNCH,Thunder Punch,,electric,55,40,0,500,Spam/Bait,,,,,,False
+THUNDER_SHOCK,Thunder Shock,,electric,3,0,9,1000,Fast Charge,,,,,,True
+THUNDERBOLT,Thunderbolt,Tb,electric,90,55,0,500,High Energy,,,,,,False
+TRAILBLAZE,Trailblaze,TBl,grass,65,50,0,500,Boost,"[1, 0]",self,1.0,,,False
+TRANSFORM,Transform,,normal,0,0,0,1500,,,,,,,True
+TRI_ATTACK,Tri Attack,,normal,65,50,0,500,Debuff,"[-1, -1]",opponent,0.5,,,False
+TRIPLE_AXEL,Triple Axel,TAx,ice,60,45,0,500,Boost,"[1, 0]",self,1.0,,,False
+TWISTER,Twister,Tw,dragon,45,45,0,500,General,,,,,,False
+V_CREATE,V-Create,,fire,95,40,0,500,Self-Debuff Spam,"[0, -3]",self,1.0,,,False
+VICE_GRIP,Vise Grip,,normal,40,40,0,500,Spam/Bait,,,,,,False
+VINE_WHIP,Vine Whip,,grass,5,0,8,1000,Fast Charge,,,,,,True
+VOLT_SWITCH,Volt Switch,,electric,12,0,16,2000,Multipurpose,,,,,,True
+VOLT_TACKLE,Volt Tackle,,electric,90,50,0,500,Self-Debuff,"[0, -1]",self,1.0,,,False
+WATER_GUN,Water Gun,,water,3,0,3,500,General,,,,,,True
+WATER_GUN_FAST_BLASTOISE,Water Gun Fast Blastoise,,water,6,0,4,1000,Low Quality,,,,,,False
+WATER_PULSE,Water Pulse,,water,80,55,0,500,General,,,,,,False
+WATERFALL,Waterfall,,water,12,0,8,1500,Heavy Damage,,,,,,True
+WATER_SHURIKEN,Water Shuriken,WSh,water,6,0,14,1500,Fast Charge,,,,,,True
+WEATHER_BALL_FIRE,Weather Ball (Fire),,fire,55,35,0,500,Spam/Bait,,,,,,False
+WEATHER_BALL_ICE,Weather Ball (Ice),,ice,55,35,0,500,Spam/Bait,,,,,,False
+WEATHER_BALL_ROCK,Weather Ball (Rock),,rock,55,35,0,500,Spam/Bait,,,,,,False
+WEATHER_BALL_NORMAL,Weather Ball (Normal),,normal,55,35,0,500,Spam/Bait,,,,,,False
+WEATHER_BALL_WATER,Weather Ball (Water),,water,55,35,0,500,Spam/Bait,,,,,,False
+WILDBOLT_STORM,Wildbolt Storm,WbS,electric,60,45,0,500,Debuff,"[-1, 0]",opponent,1.0,,,False
+WILD_CHARGE,Wild Charge,,electric,100,45,0,500,Self-Debuff,"[0, -2]",self,1.0,,,False
+WING_ATTACK,Wing Attack,,flying,5,0,8,1000,Fast Charge,,,,,,True
+WRAP,Wrap,Wr,normal,60,45,0,500,General,,,,,,False
+WRAP_GREEN,Wrap Green,WrG,normal,25,45,0,500,General,,,,,,False
+WRAP_PINK,Wrap Pink,WrP,normal,25,45,0,500,General,,,,,,False
+X_SCISSOR,X-Scissor,,bug,65,40,0,500,Spam/Bait,,,,,,False
+YAWN,Yawn,,normal,0,0,12,2000,Low Quality,,,,,,True
+ZAP_CANNON,Zap Cannon,,electric,150,80,0,500,Debuff Nuke,"[-1, 0]",opponent,0.66,,,False
+ZEN_HEADBUTT,Zen Headbutt,,psychic,8,0,6,1500,Low Quality,,,,,,True
